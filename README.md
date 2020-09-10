@@ -23,30 +23,26 @@ This repository uses images from the Tensorflow.keras MNIST Fashion dataset to c
 ## Train Data
 Here are 9 random images from the training dataset.
 
-![image of training data]
-(https://raw.githubusercontent.com/Aethernyx/Vans_Product_Classifier/master/rm_images/Train_Images.png)
+![image of training data](/rm_images/Train_Images.png)
+
 
 ## Test Data
 Here are 9 random images from the test dataset.
 
-![image of test data]
-(https://raw.githubusercontent.com/Aethernyx/Vans_Product_Classifier/master/rm_images/Test_Images.png)
+![image of test data](/rm_images/Test_Images.png)
 
 
 ## Validation Data
 Here are 9 random images from the Vans scraped validation dataset.
 
-![image of validation data]
-(https://raw.githubusercontent.com/Aethernyx/Vans_Product_Classifier/master/rm_images/Val_Images.png)
+![image of validation data](/rm_images/Val_Images.png)
 
 ## Inital Model Results
 Here is a confusion matrix for the initial model I built which was a 2 Convolution, 2 Dense layer network with 256 neurons per layer.
 
-![image of initial model cm]
-(https://raw.githubusercontent.com/Aethernyx/Vans_Product_Classifier/master/rm_images/Simple%20Model%20CM.png)
+![image of initial model cm](/rm_images/Simple%20Model%20CM.png)
 
 ## Transfer Learning Model Results
 Here is a confusion matrix for the transfer learning model I built on top of the ModelNet_V2 model.
 
-![image of transfer learning model cm]
-(https://raw.githubusercontent.com/Aethernyx/Vans_Product_Classifier/master/rm_images/Transfer_Learning.png)
+![image of transfer learning model cm](/rm_images/Transfer_Learning.png)
